@@ -1,5 +1,6 @@
 const Btn = ({ onButtonClick }) => {
   // onButtonClick passes as argument
+  // it is destructure
   let button = [
     "c",
     "1",
